@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/SwarajRawte/LeetcodePractice/tree/master/0509-fibonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 <!---LeetCode Topics End-->
