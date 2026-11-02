@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SwarajRawte/LeetcodePractice/tree/master/0069-sqrtx) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/SwarajRawte/LeetcodePractice/tree/master/0509-fibonacci-number) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 <!---LeetCode Topics End-->
