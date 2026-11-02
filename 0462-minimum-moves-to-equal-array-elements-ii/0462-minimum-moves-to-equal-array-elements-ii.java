@@ -1,18 +1,17 @@
+import java.util.Arrays;
+
 class Solution {
 
     public int minMoves2(int[] nums) {
-        long answer = Long.MAX_VALUE;
+        Arrays.sort(nums);
 
-        for (int candidate : nums) {
-            long moves = 0;
+        int m = nums[nums.length / 2];
+        long mv = 0;
 
-            for (int number : nums) {
-                moves += Math.abs((long) number - candidate);
-            }
-
-            answer = Math.min(answer, moves);
+        for (int n : nums) {
+            mv += Math.abs((long) n - m);
         }
 
-        return (int) answer;
+        return (int) mv;
     }
 }
