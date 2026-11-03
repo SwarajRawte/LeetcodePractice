@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SwarajRawte/LeetcodePractice/tree/master/0069-sqrtx) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/SwarajRawte/LeetcodePractice/tree/master/0509-fibonacci-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
