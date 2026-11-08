@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1598-crawler-log-folder/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -60,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1598-crawler-log-folder](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1598-crawler-log-folder/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
