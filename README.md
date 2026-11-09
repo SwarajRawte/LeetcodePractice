@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1598-crawler-log-folder](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1598-crawler-log-folder/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1598-crawler-log-folder](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1598-crawler-log-folder/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SwarajRawte/LeetcodePractice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [3665-twisted-mirror-path-count](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SwarajRawte/LeetcodePractice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Matrix
