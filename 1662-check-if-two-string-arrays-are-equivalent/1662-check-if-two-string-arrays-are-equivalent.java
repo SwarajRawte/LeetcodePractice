@@ -3,18 +3,17 @@ class Solution {
     public boolean arrayStringsAreEqual(
             String[] word1, String[] word2) {
 
-        String first = "";
+        StringBuilder first = new StringBuilder();
+        StringBuilder second = new StringBuilder();
 
         for (String word : word1) {
-            first += word;
+            first.append(word);
         }
-
-        String second = "";
 
         for (String word : word2) {
-            second += word;
+            second.append(word);
         }
 
-        return first.equals(second);
+        return first.toString().equals(second.toString());
     }
 }
